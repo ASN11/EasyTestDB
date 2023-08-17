@@ -1,4 +1,4 @@
-package astracode.easytest.model;
+package astracode.easytestdb.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
